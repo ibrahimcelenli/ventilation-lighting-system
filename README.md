@@ -6,4 +6,4 @@ Libraries :
            JSSC (Java Simple Serial Connector) 2.8.0
            JRE 1.8
 
-Project video : https://www.youtube.com/watch?v=8CHJzDXsOx4&t=193s
+Project video : https://www.youtube.com/watch?v=8CHJzDXsOx4&t
